@@ -56,3 +56,4 @@ This program checks all inputs provided by the user. If the inputs do not match 
 
 <img width="788" alt="ErrorChecking" src="https://user-images.githubusercontent.com/103124512/170779667-c52372b0-2f0f-4ece-addc-2052dcfd5ebb.png">
 
+
