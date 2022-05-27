@@ -14,7 +14,7 @@ The hotel management system provides the following services:
 **Check availavility of a room type:**
 
 Check availability returns to the user a list of empty single/double/studio rooms depending on the choices he/she makes. 
-This function is updated automatically when an empty room for example becomes occupied by an individual or a group of individual
+This function is updated automatically when an empty room, for example, becomes occupied by an individual or a group of individuals.
 
 <img width="728" alt="checkavailability2" src="https://user-images.githubusercontent.com/103124512/170775651-b2c698dd-861a-484a-a7ce-4d814670745b.png">
 
@@ -40,7 +40,7 @@ N.B. It is important to point out that the program generates another file that s
 
 **Hotel earning:**
 
-This function returns all the revenues that the hotel has earned.
+This function returns all the revenues that the hotel has made.
 
 <img width="478" alt="hotelEarnings" src="https://user-images.githubusercontent.com/103124512/170778968-79936d4e-6556-4464-829a-6836390b7b9a.png">
 
@@ -50,7 +50,7 @@ Earnings are computed according to the room type and the number of nights spent 
 
 **Error Checking:**
 
-This program checks all inputs provided by the user. If the inputs do not match what is expected, an error message is displayed and the user is prompted to re-enter a valid input (thanks to while loops)
+This program checks all inputs provided by the user. If the inputs do not match what is expected, an error message is displayed and the user is prompted to re-enter a valid input (thanks to while loops).
 
 *Example:*
 
