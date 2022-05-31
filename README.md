@@ -1,6 +1,6 @@
 # Hotel Management System (C Programming)
 
-This is a C program that help hotels manage all their operations seamlessly.
+This is a C program that helps hotels manage all their operations seamlessly.
 
 To use, you need to:
 
